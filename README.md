@@ -1,7 +1,9 @@
 # Prueba_Nexen
 Prueba  de habilidades en programacion full stack
 
-![Bienvenida](https://cdn.kibrispdr.org/data/1798/welcome-gif-39.gif)
+<p align="center">
+  <img src="https://cdn.kibrispdr.org/data/1798/welcome-gif-39.gif" alt="Bienvenida">
+</p>
 
 ### **Laravel** 🚀
 > 1. Migraciones y seeders
