@@ -1,4 +1,4 @@
-# Prueba_Nexen
+# Prueba_Nexen Front
 Prueba  de habilidades en programacion full stack
 
 <p align="center">
